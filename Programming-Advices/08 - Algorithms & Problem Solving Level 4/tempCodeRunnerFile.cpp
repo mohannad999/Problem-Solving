@@ -1,1 +1,6 @@
-     for (int Month = 1; Month <= 12; Month++)
+
+
+    cout << CompereDate(date1, date2);
+
+    system("pause>0");
+    return 0;
