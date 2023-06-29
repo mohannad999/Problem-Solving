@@ -13,12 +13,6 @@ struct stDate
     short year;
 };
 
-struct stDate2
-{
-    short day;
-    short months;
-    short year;
-};
 
 void ReadDate(stDate &Date)
 {
