@@ -1,4 +1,4 @@
-// wirte a programe to print a year calender
+
 
 #include <iostream>
 using namespace std;
@@ -105,7 +105,7 @@ int main()
     short month = ReadMonth();
     short Year = ReadYear();
     short NumberOfDays = DaysFromTheBeggingOfYear(day, month, Year);
-    
+
     cout << "Number of days from the begging of the year  " << NumberOfDays << " \n\n";
 
     system("pause>0");
