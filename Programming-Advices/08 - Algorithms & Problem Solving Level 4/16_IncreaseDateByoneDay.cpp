@@ -1,13 +1,3 @@
-/*
-Write a problem to read Date ,
-and make function to increse date by one day
-*/
-
-/*
-wirte a programe to read Date 1 and Date 2 and check :
-1- Is it's last day in a month
-2- Is it's last month in a year
-*/
 
 #include <iostream>
 using namespace std;
