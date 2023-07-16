@@ -39,13 +39,17 @@ public: // Property Set
 int main()
 {
     clsPerson Person1;
-
+clsPerson VipPerson;
     Person1.setFirstName("Mohannad");
     Person1.setLastName("Al-Zaatreh");
 
     cout << "First Name:" << Person1.FirstName() << endl;
     cout << "Last Name:" << Person1.LastName() << endl;
     cout << "Full Name:" << Person1.FullName() << endl;
+
+    VipPerson.setFirstName("Rami");
+    VipPerson.setLastName("Ali");
+        cout << "Full Name:" << VipPerson.FullName() << endl;
 
     system("pause>0");
     return 0;

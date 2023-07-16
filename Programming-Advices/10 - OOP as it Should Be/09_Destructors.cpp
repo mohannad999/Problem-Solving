@@ -12,7 +12,7 @@ public:
         cout << "\nHi, I'm Constructor";
     }
     // This is destructor will be called when object is destroyed.
-    ~clsPerson() { cout << "\nHi, I'm Destructor"; }
+    ~clsPerson() { cout << "\nHi, I'm Destructor ,Object Deleted"; }
 };
 
 void Fun1()

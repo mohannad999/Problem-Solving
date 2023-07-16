@@ -7,7 +7,7 @@ class clsA
 
 public:
     int var;
-    static int counter;
+    static int counter; //sheard Variables
 
     clsA()
     {
