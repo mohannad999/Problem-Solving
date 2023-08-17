@@ -6,8 +6,8 @@ This repository is a collection of my problem-solving practices and hands-on exp
  I've completed 13 courses so far and my learning journey continues. The path I'm on aligns with the structured Programming Advice Roadmap:
 <br/>
 <br/>
-<h5>🚀 About Me</h5> 
-<h3> 01 - Programming Foundations - Level 1 ✅ </h3> <br/> 
+
+#### 01 - Programming Foundations - Level 1 ✅  <br/> 
 #### 02 - Algorithms & Problem-Solving Level 1 ✅ <br/>
 #### 03 - Programming Using C++ - Level 1 ✅ <br/>
 #### 04 - Algorithms & Problem-Solving Level 1 Solution ✅ <br/>
