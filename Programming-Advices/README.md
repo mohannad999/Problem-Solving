@@ -4,7 +4,7 @@ This repository is a collection of my problem-solving practices and hands-on exp
 <br/>
 <br/>
 
-I've completed 13 courses so far and my learning journey continues. The path I'm on aligns with the structured Programming Advice Roadmap:
+# I've completed 13 courses so far and my learning journey continues. The path I'm on aligns with the structured Programming Advice Roadmap:
 <br/>
 <br/>
 ### 01 - Programming Foundations - Level 1 ✅ <br/> 
@@ -27,5 +27,5 @@ I've completed 13 courses so far and my learning journey continues. The path I'm
 <br/>
 <br/>
 ### For more information, <br/>
-please visit Programming Advices.\<br>I invite you to join me on this journey of continual learning and the enhancement of skills. 🚀
+please visit Programming Advices.<br/>I invite you to join me on this journey of continual learning and the enhancement of skills. 🚀
 
