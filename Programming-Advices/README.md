@@ -18,7 +18,7 @@ I've completed 13 courses so far and my learning journey continues. The path I'm
 ### 10 - OOP as it Should Be ✅ <br/>
 ### 11 - OOP as it Should Be - Applications ✅ <br/>
 ### 12 - Data Structures - Level 1 ✅ <br/>
-### 13 - Algorithms & Problem-Solving Level 🔜 5<br/>
+### 13 - Algorithms & Problem-Solving Level 5 🔜 <br/>
 14 - C Sharp Level 1 🔜<br/>
 15 - Database Level 1 SQL Concepts and Practice 🔜<br/>
 16 - OOP As It Should Be In CSharp 🔜 <br/>
