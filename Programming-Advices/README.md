@@ -4,15 +4,15 @@ This repository is a collection of my problem-solving practices and hands-on exp
 <br/>
 <br/>
 
-# I've completed 13 courses so far and my learning journey continues. The path I'm on aligns with the structured Programming Advice Roadmap:
+ #### I've completed 13 courses so far and my learning journey continues. The path I'm on aligns with the structured Programming Advice Roadmap:
 <br/>
 <br/>
-### 01 - Programming Foundations - Level 1 ✅ <br/> 
-### 02 - Algorithms & Problem-Solving Level 1 ✅ <br/>
-### 03 - Programming Using C++ - Level 1 ✅ <br/>
-### 04 - Algorithms & Problem-Solving Level 1 Solution ✅ <br/>
-### 05 - Algorithms & Problem-Solving Level 2 ✅ <br/>
-### 06 - Introduction to Programming Using C++ Level 2 ✅ <br/>
+#### 01 - Programming Foundations - Level 1 ✅ <br/> 
+#### 02 - Algorithms & Problem-Solving Level 1 ✅ <br/>
+#### 03 - Programming Using C++ - Level 1 ✅ <br/>
+#### 04 - Algorithms & Problem-Solving Level 1 Solution ✅ <br/>
+#### 05 - Algorithms & Problem-Solving Level 2 ✅ <br/>
+#### 06 - Introduction to Programming Using C++ Level 2 ✅ <br/>
 ### 07 - Algorithms & Problem-Solving Level 3 ✅ <br/>
 ### 08 - Algorithms & Problem-Solving Level ✅ <br/>
 ### 10 - OOP as it Should Be ✅ <br/>
