@@ -29,7 +29,7 @@ int main()
    //  printf("%d ", arrsize);
     duplicateZeros(arr,arrsize);
     
-  printf(" duplicateZeros array: ");
+  printf(" duplicate Zeros array: ");
     for (int i = 0; i < arrsize; i++) {
         printf("%d ", arr[i]);
     }
