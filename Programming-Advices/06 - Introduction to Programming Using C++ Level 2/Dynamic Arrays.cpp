@@ -1,20 +1,37 @@
-// Dynamic Arrays.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int num;
+    cout << "Enter total number of students: ";
+    cin >> num;
+
+    float *ptr; // memory allocation of num number of floats
+    string *name;
+    name = new string;
+
+    cout << "Enter your name to chech the access :  ";
+    cin >> *name;
+
+    ptr = new float[num];
+    cout << "Enter grades of students." << endl;
+
+    for (int i = 0; i < num; i++)
+    {
+        cout << "Student" << i + 1 << ": ";
+        cin >> *(ptr + i);
+        // cin >> ptr[i]
+    }
+    cout << "\nDisplaying grades of students." << endl;
+
+    cout << "your name is : " << *name << endl;
+    for (int i = 0; i < num; i++)
+    {
+        cout << "Student" << i + 1 << ": " << *(ptr + i) << endl;
+    }
+    // ptr memory is released
+    delete[] ptr;
+    delete[] name;
+    return 0;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

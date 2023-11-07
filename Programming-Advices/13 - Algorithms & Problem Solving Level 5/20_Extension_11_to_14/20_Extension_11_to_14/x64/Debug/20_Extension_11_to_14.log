@@ -1,0 +1,13 @@
+﻿  20_Extension_11_to_14.cpp
+C:\Users\USER\Desktop\Learn Programing\Problem-Solving\Programming-Advices\13 - Algorithms & Problem Solving Level 5\20_Extension_11_to_14\20_Extension_11_to_14\clsDynamicArray.h(260,10): error C2535: 'bool clsDynamicArray<T>::InsertBefore(T,T)': member function already defined or declared
+C:\Users\USER\Desktop\Learn Programing\Problem-Solving\Programming-Advices\13 - Algorithms & Problem Solving Level 5\20_Extension_11_to_14\20_Extension_11_to_14\clsDynamicArray.h(230,10): message : see declaration of 'clsDynamicArray<T>::InsertBefore'
+C:\Users\USER\Desktop\Learn Programing\Problem-Solving\Programming-Advices\13 - Algorithms & Problem Solving Level 5\20_Extension_11_to_14\20_Extension_11_to_14\clsDynamicArray.h(317,2): message : see reference to class template instantiation 'clsDynamicArray<T>' being compiled
+C:\Users\USER\Desktop\Learn Programing\Problem-Solving\Programming-Advices\13 - Algorithms & Problem Solving Level 5\20_Extension_11_to_14\20_Extension_11_to_14\clsDynamicArray.h(260,10): error C2535: 'bool clsDynamicArray<int>::InsertBefore(T,T)': member function already defined or declared
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\Learn Programing\Problem-Solving\Programming-Advices\13 - Algorithms & Problem Solving Level 5\20_Extension_11_to_14\20_Extension_11_to_14\clsDynamicArray.h(230,10): message : see declaration of 'clsDynamicArray<int>::InsertBefore'
+C:\Users\USER\Desktop\Learn Programing\Problem-Solving\Programming-Advices\13 - Algorithms & Problem Solving Level 5\20_Extension_11_to_14\20_Extension_11_to_14\20_Extension_11_to_14.cpp(10,42): message : see reference to class template instantiation 'clsDynamicArray<int>' being compiled
+C:\Users\USER\Desktop\Learn Programing\Problem-Solving\Programming-Advices\13 - Algorithms & Problem Solving Level 5\20_Extension_11_to_14\20_Extension_11_to_14\20_Extension_11_to_14.cpp(24,20): error C2039: 'InsertAtBeginning': is not a member of 'clsDynamicArray<int>'
+C:\Users\USER\Desktop\Learn Programing\Problem-Solving\Programming-Advices\13 - Algorithms & Problem Solving Level 5\20_Extension_11_to_14\20_Extension_11_to_14\20_Extension_11_to_14.cpp(10,5): message : see declaration of 'clsDynamicArray<int>'
