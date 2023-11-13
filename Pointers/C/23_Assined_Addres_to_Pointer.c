@@ -31,7 +31,7 @@ int main()
     }
 
     // Accessing the value pointed to by ptr3 without checking can lead to issues
-    printf("ptr3 Value: %d\n", *ptr3);
-
+    //printf("ptr3 Value: %d\n", *ptr3);
+    printf("ptr2 Value: %d\n", *ptr2);
     return 0;
 }
