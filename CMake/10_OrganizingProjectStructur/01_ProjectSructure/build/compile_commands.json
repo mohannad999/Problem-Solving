@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/10_OrganizingProjectStructur/01_ProjectSructure/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/my_sort_lib.dir/sort.cpp.o -c \"/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/10_OrganizingProjectStructur/01_ProjectSructure/sort.cpp\"",
+  "file": "/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/10_OrganizingProjectStructur/01_ProjectSructure/sort.cpp"
+},
+{
+  "directory": "/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/10_OrganizingProjectStructur/01_ProjectSructure/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/my_print_lib.dir/print.cpp.o -c \"/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/10_OrganizingProjectStructur/01_ProjectSructure/print.cpp\"",
+  "file": "/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/10_OrganizingProjectStructur/01_ProjectSructure/print.cpp"
+},
+{
+  "directory": "/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/10_OrganizingProjectStructur/01_ProjectSructure/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/01_ProjectSructure.dir/main.cpp.o -c \"/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/10_OrganizingProjectStructur/01_ProjectSructure/main.cpp\"",
+  "file": "/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/10_OrganizingProjectStructur/01_ProjectSructure/main.cpp"
+}
+]

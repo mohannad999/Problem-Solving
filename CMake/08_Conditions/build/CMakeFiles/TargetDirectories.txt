@@ -1,0 +1,2 @@
+/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/08_Conditions/build/CMakeFiles/edit_cache.dir
+/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/CMake/08_Conditions/build/CMakeFiles/rebuild_cache.dir

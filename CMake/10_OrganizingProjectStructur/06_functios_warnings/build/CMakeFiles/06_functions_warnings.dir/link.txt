@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/06_functions_warnings.dir/main.cpp.o -o 06_functions_warnings  src/sort/libmy_sort_lib.a src/print/libmy_print_lib.a 

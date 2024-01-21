@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/myExec2.dir/main2.cpp.o -o myExec2  libmathLib.a 

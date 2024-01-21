@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/01_ProjectSructure.dir/main.cpp.o -o 01_ProjectSructure  libmy_sort_lib.a libmy_print_lib.a 

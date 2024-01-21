@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/04_Sub_Folder.dir/main.cpp.o -o 04_Sub_Folder  src/sort/libmy_sort_lib.a src/print/libmy_print_lib.a 
