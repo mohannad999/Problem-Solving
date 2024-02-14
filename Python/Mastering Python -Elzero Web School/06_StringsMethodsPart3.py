@@ -41,7 +41,7 @@ print(f.splitlines())
 # expandtabs()
 
 g = "Hello\tWorld\tI\tLove\tPython"
-print(g.expandtabs(2))
+print(g.expandtabs(5))
 
 one = "I Love Python And 3G"
 two = "I Love Python And 3g"

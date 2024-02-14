@@ -1,1 +1,0 @@
-C:\Users\USER\Desktop\Learn Programing\Problem-Solving\Python\75_UsePylintForBetterCode.py

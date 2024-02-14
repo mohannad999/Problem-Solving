@@ -12,6 +12,9 @@
 
 myString = "I Love Python"
 
+split = myString[2:6]
+print(split)
+
 print(myString[0])  # Index 0 => I
 print(myString[9])  # Index 9 => t
 

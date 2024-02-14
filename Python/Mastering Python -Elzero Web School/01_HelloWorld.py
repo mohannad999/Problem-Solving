@@ -15,6 +15,7 @@ print(type((1, 2, 3, 4, 5)))  # tuple
 print(type({"One": 1, "Two": 2, "Three": 3}))  # Dictionary
 print(2 == 2)
 print(type(2 == 3))  # Boolean
+print(type([21, 432, 532]))
 
 
 # --------Variables---------
@@ -22,7 +23,7 @@ MyVariable = "My Variable"
 print(MyVariable)
 
 # Reserved words
-##help("keywords")
+# help("keywords")
 
 a, b, c = 1, 2, 3
 print(a)

@@ -18,7 +18,8 @@ myAwesomeTupleTwo = "Osama", "Ahmed"
 print(myAwesomeTupleOne)
 print(myAwesomeTupleTwo)
 
-print(type(myAwesomeTupleOne))
+
+# print(type(myAwesomeTupleOne))
 print(type(myAwesomeTupleTwo))
 
 # Tuple Indexing
