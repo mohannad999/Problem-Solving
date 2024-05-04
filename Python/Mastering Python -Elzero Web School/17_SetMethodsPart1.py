@@ -45,7 +45,7 @@ g.remove(1)
 print(g)
 
 # discard()
-
+print("-------------discard --------------------")
 h = {1, 2, 3, 4}
 h.discard(1)
 h.discard(7)
