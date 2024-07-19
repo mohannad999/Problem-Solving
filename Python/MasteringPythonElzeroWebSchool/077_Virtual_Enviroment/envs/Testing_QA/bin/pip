@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/media/mohannad/New Volume/Embedded Linux/Learn Programing/Problem-Solving/Python/MasteringPythonElzeroWebSchool/077_Virtual_Enviroment/envs/Testing_QA/bin/python3.12" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())

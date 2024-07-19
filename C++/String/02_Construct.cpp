@@ -9,7 +9,7 @@ int main ()
   // constructors used in the same order as described above:
   std::string s1;
   std::string s2 (s0);
-  std::string s3 (s0, 8, 3);
+  std::string s3 (s0, 8, 3);  
   std::string s4 ("A character sequence");
   std::string s5 ("Another character sequence", 12);
   std::string s6a (10, 'x');

@@ -8,7 +8,7 @@ using namespace std;
 int ReadNum()
 {
     int num; 
-    cout << "Enter the number : "; 
+    cout << "Enter the number : ";
     cin >> num;
     return num; 
 }
